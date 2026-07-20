@@ -1,0 +1,1 @@
+SELECT * FROM {{ ref('nv_customers') }}
