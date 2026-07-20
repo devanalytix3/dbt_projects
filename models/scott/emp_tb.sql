@@ -1,0 +1,1 @@
+SELECT * FROM scott.raw.emp

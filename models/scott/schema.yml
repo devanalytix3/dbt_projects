@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: SCOTT_RAW
+    database: SCOTT
+    schema: RAW
+    tables:
+      - name: EMP
+      - name: DEPT
